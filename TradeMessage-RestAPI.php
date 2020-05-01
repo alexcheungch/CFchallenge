@@ -4,10 +4,10 @@ require_once('TradeMessageClass.php');
 
 // setup the trademessage processor parameters
 $trade_parameters = array(
-    'id_length' => 6,
+//    'id_length' => 6,
     'min_amount'=> 0,
-    'currency_list' => "EUR GBP USD HKD CNY JPY",
-    'country_list'  => "FR UK US HK CN JP"
+//    'currency_list' => "EUR GBP USD HKD CNY JPY",
+//    'country_list'  => "FR UK US HK CN JP"
 );
 
 
