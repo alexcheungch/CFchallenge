@@ -1,0 +1,7 @@
+{"userId":"134256","currencyFrom":"EUR","currencyTo":"GBP","amountSell":1000,"amountBuy":747.1,"rate":0.7471,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"FR","status":"2020-04-30 11:23:39","validated":true}
+{"userId":"123456","currencyFrom":"EUR","currencyTo":"GBP","amountSell":1000,"amountBuy":747.1,"rate":0.7471,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"US","status":"2020-04-30 11:23:39","validated":true}
+{"userId":"123456","currencyFrom":"HKD","currencyTo":"EUR","amountSell":1000,"amountBuy":118.1,"rate":0.1181,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"HK","status":"2020-04-30 11:23:39","validated":true}
+{"userId":"123456","currencyFrom":"HKD","currencyTo":"JPY","amountSell":100,"amountBuy":1374.69,"rate":13.7469,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"HK","status":"2020-04-30 11:23:39","validated":true}
+{"userId":"123456","currencyFrom":"EUR","currencyTo":"JPY","amountSell":10,"amountBuy":1157.2,"rate":115.72,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"JP","status":"2020-04-30 11:23:39","validated":true}
+{"userId":"123456","currencyFrom":"GBP","currencyTo":"JPY","amountSell":10,"amountBuy":1328.1,"rate":132.81,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"JP","status":"2020-04-30 11:23:39","validated":true}
+{"userId":"123456","currencyFrom":"GBP","currencyTo":"EUR","amountSell":1000,"amountBuy":1148,"rate":1.148,"timePlaced":"30-Apr-2020 10:23:39","originatingCountry":"FR","status":"2020-04-30 11:23:39","validated":true}
